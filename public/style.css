@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    user-select: none;
+
+    overflow-x: hidden;
+    background-color: rgb(240,240,240);
+    color:rgba(45,45,45,1)
+}
